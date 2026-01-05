@@ -1,2 +1,2 @@
 # Image-processing
-Medical image segmentation
+Some computer labs dedicated to basic image processing (segmentation , convolutions, denoising)
